@@ -1,6 +1,6 @@
 {
 	"name": "@casted-app/casted-gcs-browser-upload",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "Resumable, chunked uploads to Google Cloud Storage from the browser. Forked from https://github.com/qubitdigital/gcs-browser-upload",
 	"main": "dist/Upload.js",
 	"scripts": {
